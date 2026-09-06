@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# Logs
+logs/
+
+# Large/generated data
+data/bronze/
+data/processed/
+
+# Model artifacts
+models/*.pkl
+models/*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,501 @@
+tower_id,network_region,technology,tower_health_score,tower_status,risk_category,failure_probability,recommended_action,total_customers,affected_customers,monthly_revenue,revenue_at_risk
+T1000,North,4G,78.54,Warning,MEDIUM,31.21,Increase monitoring frequency,24,0,16176,0
+T1001,North,4G,78.18,Warning,MEDIUM,32.68,Increase monitoring frequency,26,0,16374,0
+T1002,South,4G,78.69,Warning,MEDIUM,26.54,Increase monitoring frequency,20,0,13180,0
+T1003,Central,5G,78.62,Warning,LOW,24.42,Normal monitoring,25,0,17875,0
+T1004,South,5G,78.82,Warning,MEDIUM,25.38,Increase monitoring frequency,18,0,12882,0
+T1005,North,4G,79.65,Warning,CRITICAL,84.12,Immediate technician inspection,28,28,19972,19972
+T1006,Central,5G,78.45,Warning,LOW,10.72,Normal monitoring,15,0,13385,0
+T1007,North,5G,78.54,Warning,LOW,21.21,Normal monitoring,15,0,10685,0
+T1008,East,4G,77.1,Warning,LOW,20.61,Normal monitoring,25,0,16575,0
+T1009,East,4G,78.4,Warning,MEDIUM,27.01,Increase monitoring frequency,17,0,11883,0
+T1010,East,5G,79.06,Warning,LOW,19.14,Normal monitoring,18,0,11782,0
+T1011,East,4G,78.6,Warning,LOW,23.03,Normal monitoring,21,0,15879,0
+T1012,Central,4G,78.51,Warning,CRITICAL,83.08,Immediate technician inspection,18,18,10482,10482
+T1013,West,5G,78.76,Warning,MEDIUM,29.37,Increase monitoring frequency,25,0,18075,0
+T1014,South,5G,78.06,Warning,LOW,12.5,Normal monitoring,18,0,11482,0
+T1015,North,5G,78.79,Warning,LOW,18.51,Normal monitoring,21,0,14979,0
+T1016,East,4G,78.25,Warning,MEDIUM,29.03,Increase monitoring frequency,24,0,14876,0
+T1017,South,5G,78.58,Warning,LOW,11.57,Normal monitoring,10,0,6090,0
+T1018,East,5G,50.98,Critical,CRITICAL,100.0,Immediate technician inspection,16,16,9484,9484
+T1019,South,5G,78.07,Warning,LOW,20.83,Normal monitoring,19,0,12981,0
+T1020,South,4G,78.3,Warning,MEDIUM,32.98,Increase monitoring frequency,17,0,12583,0
+T1021,West,5G,78.34,Warning,MEDIUM,30.77,Increase monitoring frequency,26,0,17174,0
+T1022,Central,4G,78.74,Warning,HIGH,71.04,Schedule preventive maintenance,21,21,14079,14079
+T1023,East,5G,79.13,Warning,MEDIUM,25.58,Increase monitoring frequency,19,0,11581,0
+T1024,North,5G,78.49,Warning,LOW,16.69,Normal monitoring,19,0,11181,0
+T1025,North,5G,79.22,Warning,MEDIUM,43.45,Increase monitoring frequency,18,0,12682,0
+T1026,South,5G,78.82,Warning,MEDIUM,31.72,Increase monitoring frequency,23,0,18477,0
+T1027,North,5G,78.45,Warning,LOW,22.57,Normal monitoring,19,0,11281,0
+T1028,East,4G,78.74,Warning,LOW,14.38,Normal monitoring,20,0,16880,0
+T1029,North,5G,78.61,Warning,LOW,15.77,Normal monitoring,16,0,12284,0
+T1030,South,4G,78.68,Warning,MEDIUM,27.53,Increase monitoring frequency,22,0,15978,0
+T1031,East,5G,78.59,Warning,LOW,17.34,Normal monitoring,20,0,14680,0
+T1032,East,5G,78.77,Warning,LOW,19.42,Normal monitoring,16,0,10784,0
+T1033,Central,5G,77.86,Warning,LOW,18.76,Normal monitoring,12,0,10688,0
+T1034,North,4G,77.83,Warning,LOW,17.3,Normal monitoring,19,0,14881,0
+T1035,South,4G,80.18,Healthy,MEDIUM,27.07,Increase monitoring frequency,19,0,11781,0
+T1036,Central,4G,78.18,Warning,MEDIUM,28.97,Increase monitoring frequency,21,0,14079,0
+T1037,South,5G,50.65,Critical,CRITICAL,100.0,Immediate technician inspection,18,18,12082,12082
+T1038,South,4G,79.08,Warning,MEDIUM,34.18,Increase monitoring frequency,17,0,12183,0
+T1039,West,5G,78.76,Warning,MEDIUM,28.0,Increase monitoring frequency,19,0,13681,0
+T1040,North,5G,78.6,Warning,MEDIUM,25.59,Increase monitoring frequency,23,0,16877,0
+T1041,South,4G,78.47,Warning,LOW,21.74,Normal monitoring,19,0,14881,0
+T1042,South,5G,78.38,Warning,LOW,22.21,Normal monitoring,27,0,22173,0
+T1043,West,4G,78.09,Warning,MEDIUM,38.43,Increase monitoring frequency,19,0,11881,0
+T1044,North,4G,79.28,Warning,MEDIUM,27.92,Increase monitoring frequency,17,0,12083,0
+T1045,West,4G,78.67,Warning,LOW,14.9,Normal monitoring,28,0,18872,0
+T1046,East,5G,79.15,Warning,MEDIUM,25.4,Increase monitoring frequency,17,0,12483,0
+T1047,West,4G,78.77,Warning,LOW,21.41,Normal monitoring,18,0,11182,0
+T1048,Central,4G,78.26,Warning,MEDIUM,32.35,Increase monitoring frequency,22,0,12878,0
+T1049,West,4G,78.85,Warning,CRITICAL,86.17,Immediate technician inspection,21,21,14879,14879
+T1050,North,4G,78.7,Warning,LOW,12.04,Normal monitoring,18,0,13182,0
+T1051,Central,4G,79.32,Warning,MEDIUM,49.26,Increase monitoring frequency,30,0,22370,0
+T1052,West,5G,78.83,Warning,LOW,10.56,Normal monitoring,21,0,17879,0
+T1053,South,5G,78.65,Warning,CRITICAL,86.74,Immediate technician inspection,15,15,10285,10285
+T1054,West,5G,78.89,Warning,HIGH,60.2,Schedule preventive maintenance,22,22,15178,15178
+T1055,West,4G,78.54,Warning,HIGH,66.8,Schedule preventive maintenance,15,15,11785,11785
+T1056,South,5G,78.56,Warning,LOW,20.31,Normal monitoring,28,0,17472,0
+T1057,East,4G,78.25,Warning,MEDIUM,26.61,Increase monitoring frequency,17,0,12083,0
+T1058,Central,4G,79.03,Warning,LOW,16.61,Normal monitoring,20,0,14580,0
+T1059,South,5G,78.95,Warning,CRITICAL,77.4,Immediate technician inspection,16,16,10084,10084
+T1060,South,5G,78.6,Warning,MEDIUM,29.39,Increase monitoring frequency,24,0,17676,0
+T1061,South,5G,79.15,Warning,MEDIUM,30.33,Increase monitoring frequency,15,0,10985,0
+T1062,North,5G,78.74,Warning,MEDIUM,28.17,Increase monitoring frequency,19,0,15181,0
+T1063,South,5G,78.43,Warning,MEDIUM,30.97,Increase monitoring frequency,23,0,15277,0
+T1064,Central,4G,77.78,Warning,LOW,19.54,Normal monitoring,28,0,18272,0
+T1065,Central,4G,78.11,Warning,MEDIUM,29.06,Increase monitoring frequency,19,0,13781,0
+T1066,West,4G,79.29,Warning,LOW,24.88,Normal monitoring,18,0,12482,0
+T1067,East,4G,78.93,Warning,LOW,19.96,Normal monitoring,16,0,10684,0
+T1068,Central,5G,78.84,Warning,LOW,24.83,Normal monitoring,22,0,12178,0
+T1069,South,4G,78.69,Warning,MEDIUM,25.29,Increase monitoring frequency,20,0,16480,0
+T1070,West,4G,78.78,Warning,LOW,20.54,Normal monitoring,15,0,10985,0
+T1071,West,4G,78.06,Warning,LOW,19.67,Normal monitoring,18,0,15082,0
+T1072,East,5G,78.7,Warning,MEDIUM,29.29,Increase monitoring frequency,21,0,15079,0
+T1073,North,4G,78.95,Warning,LOW,11.96,Normal monitoring,22,0,16578,0
+T1074,East,5G,78.59,Warning,MEDIUM,28.91,Increase monitoring frequency,12,0,7488,0
+T1075,East,4G,78.0,Warning,LOW,18.48,Normal monitoring,23,0,17277,0
+T1076,Central,5G,78.23,Warning,MEDIUM,26.32,Increase monitoring frequency,21,0,16279,0
+T1077,East,5G,79.68,Warning,CRITICAL,78.8,Immediate technician inspection,26,26,16774,16774
+T1078,Central,4G,51.04,Critical,CRITICAL,100.0,Immediate technician inspection,19,19,12781,12781
+T1079,Central,4G,78.59,Warning,LOW,23.02,Normal monitoring,14,0,12086,0
+T1080,Central,5G,78.66,Warning,MEDIUM,27.01,Increase monitoring frequency,21,0,12279,0
+T1081,Central,5G,78.51,Warning,LOW,17.26,Normal monitoring,25,0,16875,0
+T1082,Central,4G,78.96,Warning,MEDIUM,28.07,Increase monitoring frequency,9,0,6291,0
+T1083,South,5G,79.41,Warning,LOW,20.99,Normal monitoring,20,0,12880,0
+T1084,East,4G,77.82,Warning,LOW,17.99,Normal monitoring,20,0,14880,0
+T1085,West,5G,79.01,Warning,HIGH,53.51,Schedule preventive maintenance,10,10,7290,7290
+T1086,South,4G,78.86,Warning,MEDIUM,25.41,Increase monitoring frequency,20,0,12580,0
+T1087,East,4G,78.5,Warning,MEDIUM,37.7,Increase monitoring frequency,19,0,13781,0
+T1088,South,4G,78.33,Warning,LOW,22.06,Normal monitoring,33,0,20967,0
+T1089,Central,4G,78.97,Warning,MEDIUM,26.19,Increase monitoring frequency,19,0,11781,0
+T1090,South,5G,79.03,Warning,MEDIUM,27.29,Increase monitoring frequency,19,0,14181,0
+T1091,North,5G,78.11,Warning,LOW,14.49,Normal monitoring,19,0,14581,0
+T1092,West,4G,78.4,Warning,LOW,19.91,Normal monitoring,17,0,10583,0
+T1093,West,4G,78.56,Warning,MEDIUM,29.21,Increase monitoring frequency,18,0,14482,0
+T1094,Central,5G,78.96,Warning,MEDIUM,26.03,Increase monitoring frequency,28,0,18772,0
+T1095,Central,5G,78.56,Warning,LOW,23.8,Normal monitoring,24,0,15776,0
+T1096,West,5G,78.9,Warning,MEDIUM,28.54,Increase monitoring frequency,22,0,13878,0
+T1097,Central,5G,78.96,Warning,LOW,22.09,Normal monitoring,20,0,14080,0
+T1098,East,4G,78.55,Warning,LOW,17.63,Normal monitoring,23,0,13977,0
+T1099,North,4G,79.06,Warning,MEDIUM,25.22,Increase monitoring frequency,21,0,16079,0
+T1100,South,4G,78.34,Warning,MEDIUM,38.35,Increase monitoring frequency,24,0,19076,0
+T1101,West,4G,78.69,Warning,LOW,15.99,Normal monitoring,21,0,14079,0
+T1102,North,5G,78.58,Warning,LOW,20.88,Normal monitoring,11,0,6489,0
+T1103,West,5G,78.38,Warning,MEDIUM,28.69,Increase monitoring frequency,19,0,12781,0
+T1104,South,5G,78.68,Warning,MEDIUM,34.25,Increase monitoring frequency,27,0,17773,0
+T1105,West,5G,78.9,Warning,MEDIUM,40.5,Increase monitoring frequency,21,0,14079,0
+T1106,West,4G,78.42,Warning,LOW,17.19,Normal monitoring,21,0,14879,0
+T1107,Central,4G,78.79,Warning,MEDIUM,27.96,Increase monitoring frequency,21,0,13979,0
+T1108,South,4G,79.3,Warning,MEDIUM,41.54,Increase monitoring frequency,18,0,13082,0
+T1109,East,5G,78.7,Warning,LOW,23.67,Normal monitoring,20,0,12480,0
+T1110,East,4G,78.66,Warning,LOW,23.08,Normal monitoring,28,0,20772,0
+T1111,East,4G,78.77,Warning,MEDIUM,28.67,Increase monitoring frequency,25,0,18075,0
+T1112,North,4G,79.36,Warning,MEDIUM,27.04,Increase monitoring frequency,26,0,16974,0
+T1113,South,4G,79.63,Warning,CRITICAL,88.05,Immediate technician inspection,18,18,12182,12182
+T1114,West,5G,79.01,Warning,MEDIUM,32.06,Increase monitoring frequency,21,0,12679,0
+T1115,North,4G,78.43,Warning,LOW,20.14,Normal monitoring,17,0,9983,0
+T1116,East,5G,78.19,Warning,LOW,18.67,Normal monitoring,24,0,17176,0
+T1117,Central,4G,78.66,Warning,MEDIUM,33.16,Increase monitoring frequency,17,0,12883,0
+T1118,North,4G,78.61,Warning,LOW,9.23,Normal monitoring,18,0,11782,0
+T1119,North,5G,78.95,Warning,LOW,18.53,Normal monitoring,18,0,13582,0
+T1120,North,5G,79.0,Warning,MEDIUM,34.09,Increase monitoring frequency,17,0,12483,0
+T1121,South,5G,78.05,Warning,LOW,18.93,Normal monitoring,11,0,7289,0
+T1122,Central,5G,78.51,Warning,MEDIUM,33.77,Increase monitoring frequency,22,0,17378,0
+T1123,East,5G,50.36,Critical,CRITICAL,100.0,Immediate technician inspection,25,25,14975,14975
+T1124,East,5G,79.03,Warning,HIGH,58.21,Schedule preventive maintenance,20,20,17680,17680
+T1125,West,5G,78.35,Warning,MEDIUM,33.53,Increase monitoring frequency,27,0,18073,0
+T1126,West,4G,78.23,Warning,LOW,16.69,Normal monitoring,27,0,18373,0
+T1127,Central,5G,78.37,Warning,HIGH,71.46,Schedule preventive maintenance,22,22,13778,13778
+T1128,North,4G,78.72,Warning,MEDIUM,33.07,Increase monitoring frequency,17,0,11283,0
+T1129,West,5G,50.72,Critical,CRITICAL,100.0,Immediate technician inspection,16,16,11884,11884
+T1130,South,5G,78.85,Warning,MEDIUM,32.74,Increase monitoring frequency,21,0,15879,0
+T1131,East,5G,78.54,Warning,LOW,19.76,Normal monitoring,20,0,14180,0
+T1132,East,5G,79.22,Warning,CRITICAL,82.33,Immediate technician inspection,20,20,14880,14880
+T1133,South,4G,78.53,Warning,LOW,21.4,Normal monitoring,25,0,17375,0
+T1134,South,4G,78.25,Warning,LOW,12.75,Normal monitoring,24,0,18676,0
+T1135,Central,5G,78.78,Warning,MEDIUM,30.36,Increase monitoring frequency,19,0,14781,0
+T1136,South,5G,79.19,Warning,LOW,22.49,Normal monitoring,15,0,9785,0
+T1137,South,5G,78.36,Warning,MEDIUM,29.22,Increase monitoring frequency,17,0,13783,0
+T1138,South,5G,78.3,Warning,MEDIUM,35.81,Increase monitoring frequency,20,0,14880,0
+T1139,West,5G,79.29,Warning,LOW,15.64,Normal monitoring,19,0,16281,0
+T1140,East,5G,79.0,Warning,LOW,10.52,Normal monitoring,20,0,12380,0
+T1141,North,4G,79.52,Warning,MEDIUM,28.85,Increase monitoring frequency,13,0,9787,0
+T1142,North,4G,77.91,Warning,LOW,15.49,Normal monitoring,17,0,12783,0
+T1143,Central,4G,78.47,Warning,MEDIUM,26.59,Increase monitoring frequency,25,0,19175,0
+T1144,East,5G,78.46,Warning,LOW,20.18,Normal monitoring,20,0,14780,0
+T1145,North,4G,79.29,Warning,LOW,19.24,Normal monitoring,24,0,17976,0
+T1146,South,4G,78.79,Warning,MEDIUM,28.63,Increase monitoring frequency,10,0,7290,0
+T1147,West,5G,78.2,Warning,LOW,12.36,Normal monitoring,15,0,11685,0
+T1148,South,5G,79.29,Warning,LOW,23.51,Normal monitoring,19,0,11281,0
+T1149,North,4G,78.66,Warning,LOW,15.54,Normal monitoring,13,0,8087,0
+T1150,South,5G,78.16,Warning,MEDIUM,29.45,Increase monitoring frequency,19,0,11381,0
+T1151,East,4G,78.6,Warning,HIGH,66.78,Schedule preventive maintenance,22,22,14978,14978
+T1152,Central,5G,79.41,Warning,MEDIUM,26.5,Increase monitoring frequency,20,0,13980,0
+T1153,West,5G,78.59,Warning,MEDIUM,32.99,Increase monitoring frequency,32,0,21268,0
+T1154,Central,4G,78.65,Warning,MEDIUM,26.7,Increase monitoring frequency,27,0,17473,0
+T1155,East,4G,79.1,Warning,MEDIUM,33.42,Increase monitoring frequency,11,0,7589,0
+T1156,Central,4G,78.47,Warning,MEDIUM,29.78,Increase monitoring frequency,15,0,10385,0
+T1157,Central,4G,79.71,Warning,MEDIUM,28.94,Increase monitoring frequency,26,0,19774,0
+T1158,West,5G,78.75,Warning,LOW,19.75,Normal monitoring,14,0,10386,0
+T1159,North,5G,78.88,Warning,CRITICAL,76.88,Immediate technician inspection,22,22,14378,14378
+T1160,South,5G,79.08,Warning,LOW,15.95,Normal monitoring,23,0,15777,0
+T1161,Central,4G,79.32,Warning,LOW,23.16,Normal monitoring,20,0,13380,0
+T1162,North,5G,79.32,Warning,MEDIUM,34.42,Increase monitoring frequency,16,0,8584,0
+T1163,Central,5G,78.99,Warning,MEDIUM,31.85,Increase monitoring frequency,17,0,12483,0
+T1164,Central,5G,79.55,Warning,LOW,16.92,Normal monitoring,16,0,11284,0
+T1165,East,4G,78.29,Warning,MEDIUM,28.08,Increase monitoring frequency,24,0,15776,0
+T1166,North,4G,78.8,Warning,LOW,14.69,Normal monitoring,17,0,10883,0
+T1167,South,5G,78.45,Warning,MEDIUM,29.12,Increase monitoring frequency,16,0,10184,0
+T1168,South,4G,79.12,Warning,MEDIUM,34.2,Increase monitoring frequency,19,0,13081,0
+T1169,West,5G,78.69,Warning,HIGH,65.76,Schedule preventive maintenance,19,19,14481,14481
+T1170,West,4G,78.93,Warning,LOW,21.62,Normal monitoring,16,0,10484,0
+T1171,Central,4G,78.79,Warning,LOW,23.17,Normal monitoring,26,0,21974,0
+T1172,East,5G,78.8,Warning,LOW,24.66,Normal monitoring,21,0,14979,0
+T1173,Central,5G,78.79,Warning,MEDIUM,35.11,Increase monitoring frequency,12,0,7588,0
+T1174,East,5G,77.42,Warning,MEDIUM,31.45,Increase monitoring frequency,17,0,12483,0
+T1175,East,4G,78.96,Warning,CRITICAL,79.46,Immediate technician inspection,23,23,13177,13177
+T1176,South,5G,78.87,Warning,HIGH,70.17,Schedule preventive maintenance,27,27,21073,21073
+T1177,West,4G,78.66,Warning,MEDIUM,34.66,Increase monitoring frequency,18,0,9982,0
+T1178,Central,5G,78.47,Warning,CRITICAL,75.58,Immediate technician inspection,30,30,21770,21770
+T1179,North,5G,78.61,Warning,MEDIUM,30.49,Increase monitoring frequency,23,0,17277,0
+T1180,North,5G,78.08,Warning,LOW,24.17,Normal monitoring,23,0,18177,0
+T1181,West,4G,78.79,Warning,HIGH,53.85,Schedule preventive maintenance,19,19,11681,11681
+T1182,West,5G,79.92,Warning,LOW,22.33,Normal monitoring,22,0,16278,0
+T1183,Central,4G,78.44,Warning,LOW,21.38,Normal monitoring,23,0,16477,0
+T1184,South,4G,51.27,Critical,CRITICAL,100.0,Immediate technician inspection,15,15,10085,10085
+T1185,West,4G,79.77,Warning,LOW,18.17,Normal monitoring,26,0,21574,0
+T1186,East,4G,78.12,Warning,LOW,22.83,Normal monitoring,19,0,14581,0
+T1187,South,5G,78.44,Warning,LOW,22.78,Normal monitoring,14,0,11086,0
+T1188,South,4G,78.62,Warning,MEDIUM,38.64,Increase monitoring frequency,13,0,11087,0
+T1189,West,4G,79.05,Warning,LOW,15.94,Normal monitoring,15,0,13685,0
+T1190,East,4G,78.38,Warning,MEDIUM,36.72,Increase monitoring frequency,19,0,14781,0
+T1191,Central,4G,78.31,Warning,HIGH,73.28,Schedule preventive maintenance,24,24,14876,14876
+T1192,East,5G,79.84,Warning,MEDIUM,40.59,Increase monitoring frequency,15,0,9685,0
+T1193,South,5G,50.4,Critical,CRITICAL,100.0,Immediate technician inspection,23,23,14577,14577
+T1194,Central,5G,78.71,Warning,MEDIUM,29.36,Increase monitoring frequency,20,0,14080,0
+T1195,North,5G,78.64,Warning,LOW,14.45,Normal monitoring,21,0,11579,0
+T1196,Central,5G,78.01,Warning,MEDIUM,31.62,Increase monitoring frequency,22,0,14378,0
+T1197,Central,5G,78.46,Warning,LOW,23.77,Normal monitoring,19,0,12181,0
+T1198,South,4G,77.9,Warning,LOW,17.08,Normal monitoring,25,0,17175,0
+T1199,West,4G,79.38,Warning,MEDIUM,26.75,Increase monitoring frequency,15,0,8885,0
+T1200,East,5G,78.71,Warning,CRITICAL,88.47,Immediate technician inspection,20,20,14980,14980
+T1201,Central,5G,78.73,Warning,LOW,21.54,Normal monitoring,23,0,18077,0
+T1202,East,5G,78.96,Warning,MEDIUM,29.95,Increase monitoring frequency,24,0,15376,0
+T1203,North,5G,78.26,Warning,MEDIUM,25.42,Increase monitoring frequency,19,0,14581,0
+T1204,West,5G,79.18,Warning,HIGH,72.93,Schedule preventive maintenance,20,20,15580,15580
+T1205,Central,4G,51.67,Critical,CRITICAL,100.0,Immediate technician inspection,25,25,17375,17375
+T1206,Central,5G,79.08,Warning,LOW,13.79,Normal monitoring,17,0,12383,0
+T1207,South,5G,78.94,Warning,LOW,13.11,Normal monitoring,24,0,19376,0
+T1208,East,4G,78.77,Warning,LOW,20.01,Normal monitoring,28,0,16672,0
+T1209,East,5G,78.8,Warning,MEDIUM,26.73,Increase monitoring frequency,19,0,13181,0
+T1210,East,5G,78.89,Warning,LOW,21.98,Normal monitoring,19,0,13081,0
+T1211,South,5G,78.66,Warning,MEDIUM,31.79,Increase monitoring frequency,22,0,16878,0
+T1212,West,4G,78.95,Warning,CRITICAL,87.94,Immediate technician inspection,18,18,10782,10782
+T1213,Central,5G,78.34,Warning,LOW,22.63,Normal monitoring,17,0,11283,0
+T1214,South,5G,51.63,Critical,CRITICAL,100.0,Immediate technician inspection,23,23,16077,16077
+T1215,North,5G,77.77,Warning,LOW,11.79,Normal monitoring,16,0,13684,0
+T1216,North,5G,51.43,Critical,CRITICAL,100.0,Immediate technician inspection,19,19,17381,17381
+T1217,North,4G,79.04,Warning,LOW,22.32,Normal monitoring,17,0,11183,0
+T1218,North,5G,78.8,Warning,MEDIUM,32.5,Increase monitoring frequency,24,0,16776,0
+T1219,South,4G,78.29,Warning,MEDIUM,28.11,Increase monitoring frequency,20,0,15580,0
+T1220,South,4G,77.78,Warning,CRITICAL,81.76,Immediate technician inspection,18,18,9782,9782
+T1221,North,5G,78.23,Warning,MEDIUM,27.6,Increase monitoring frequency,23,0,19777,0
+T1222,Central,5G,79.11,Warning,MEDIUM,32.84,Increase monitoring frequency,23,0,15477,0
+T1223,South,4G,79.35,Warning,LOW,20.36,Normal monitoring,21,0,15479,0
+T1224,East,4G,78.68,Warning,MEDIUM,41.81,Increase monitoring frequency,17,0,13583,0
+T1225,Central,4G,78.59,Warning,MEDIUM,26.34,Increase monitoring frequency,21,0,12579,0
+T1226,Central,4G,78.81,Warning,MEDIUM,25.46,Increase monitoring frequency,23,0,14277,0
+T1227,North,5G,79.11,Warning,MEDIUM,27.54,Increase monitoring frequency,25,0,19875,0
+T1228,West,5G,78.48,Warning,CRITICAL,81.21,Immediate technician inspection,17,17,11283,11283
+T1229,North,4G,50.85,Critical,CRITICAL,100.0,Immediate technician inspection,21,21,14179,14179
+T1230,East,5G,78.44,Warning,LOW,20.32,Normal monitoring,19,0,14081,0
+T1231,West,5G,78.71,Warning,MEDIUM,37.72,Increase monitoring frequency,20,0,15280,0
+T1232,South,5G,78.54,Warning,MEDIUM,28.05,Increase monitoring frequency,22,0,14978,0
+T1233,West,5G,79.13,Warning,CRITICAL,85.8,Immediate technician inspection,15,15,10785,10785
+T1234,East,5G,78.4,Warning,LOW,18.8,Normal monitoring,26,0,14974,0
+T1235,North,4G,78.6,Warning,LOW,19.42,Normal monitoring,16,0,11684,0
+T1236,East,4G,77.96,Warning,LOW,18.38,Normal monitoring,21,0,16079,0
+T1237,Central,5G,78.36,Warning,HIGH,63.09,Schedule preventive maintenance,18,18,10482,10482
+T1238,North,5G,78.73,Warning,MEDIUM,27.19,Increase monitoring frequency,16,0,9684,0
+T1239,Central,4G,79.01,Warning,MEDIUM,33.78,Increase monitoring frequency,24,0,14176,0
+T1240,East,5G,78.92,Warning,LOW,20.83,Normal monitoring,13,0,10287,0
+T1241,West,4G,78.79,Warning,MEDIUM,25.77,Increase monitoring frequency,19,0,12181,0
+T1242,North,4G,78.04,Warning,LOW,15.89,Normal monitoring,22,0,16178,0
+T1243,East,4G,79.21,Warning,CRITICAL,94.13,Immediate technician inspection,12,12,8988,8988
+T1244,North,4G,79.31,Warning,MEDIUM,32.41,Increase monitoring frequency,17,0,8683,0
+T1245,Central,4G,51.42,Critical,CRITICAL,100.0,Immediate technician inspection,26,26,19174,19174
+T1246,East,5G,78.5,Warning,MEDIUM,34.14,Increase monitoring frequency,16,0,11484,0
+T1247,Central,4G,78.41,Warning,MEDIUM,48.01,Increase monitoring frequency,10,0,5190,0
+T1248,North,4G,78.14,Warning,MEDIUM,36.87,Increase monitoring frequency,20,0,14480,0
+T1249,Central,5G,78.12,Warning,LOW,13.39,Normal monitoring,19,0,13081,0
+T1250,North,5G,78.22,Warning,MEDIUM,30.72,Increase monitoring frequency,18,0,15182,0
+T1251,West,5G,78.4,Warning,LOW,19.73,Normal monitoring,23,0,16977,0
+T1252,North,4G,78.19,Warning,MEDIUM,34.31,Increase monitoring frequency,18,0,12982,0
+T1253,East,5G,78.68,Warning,LOW,16.17,Normal monitoring,22,0,13778,0
+T1254,South,4G,78.2,Warning,MEDIUM,36.89,Increase monitoring frequency,20,0,13780,0
+T1255,Central,5G,78.71,Warning,MEDIUM,31.01,Increase monitoring frequency,23,0,16177,0
+T1256,West,4G,78.96,Warning,CRITICAL,81.58,Immediate technician inspection,18,18,13482,13482
+T1257,Central,5G,79.41,Warning,LOW,22.44,Normal monitoring,24,0,14276,0
+T1258,East,4G,79.39,Warning,LOW,16.06,Normal monitoring,14,0,12386,0
+T1259,Central,5G,50.83,Critical,CRITICAL,100.0,Immediate technician inspection,16,16,10784,10784
+T1260,West,4G,79.2,Warning,MEDIUM,38.28,Increase monitoring frequency,21,0,16879,0
+T1261,North,5G,79.45,Warning,CRITICAL,81.21,Immediate technician inspection,21,21,18979,18979
+T1262,East,4G,78.64,Warning,MEDIUM,32.08,Increase monitoring frequency,25,0,17375,0
+T1263,Central,4G,78.66,Warning,LOW,19.33,Normal monitoring,17,0,11583,0
+T1264,South,4G,78.87,Warning,LOW,23.16,Normal monitoring,26,0,20874,0
+T1265,South,4G,78.12,Warning,HIGH,65.38,Schedule preventive maintenance,16,16,12084,12084
+T1266,West,5G,78.59,Warning,MEDIUM,33.91,Increase monitoring frequency,15,0,8585,0
+T1267,East,5G,79.06,Warning,LOW,17.19,Normal monitoring,17,0,12183,0
+T1268,East,5G,79.25,Warning,LOW,16.53,Normal monitoring,13,0,11487,0
+T1269,East,5G,78.33,Warning,MEDIUM,33.7,Increase monitoring frequency,19,0,13481,0
+T1270,North,4G,78.55,Warning,LOW,13.31,Normal monitoring,21,0,15479,0
+T1271,Central,4G,78.43,Warning,LOW,20.36,Normal monitoring,14,0,10986,0
+T1272,East,5G,79.19,Warning,MEDIUM,27.92,Increase monitoring frequency,16,0,12184,0
+T1273,North,5G,51.19,Critical,CRITICAL,100.0,Immediate technician inspection,20,20,16680,16680
+T1274,North,4G,79.29,Warning,CRITICAL,81.37,Immediate technician inspection,17,17,12283,12283
+T1275,Central,4G,79.05,Warning,MEDIUM,32.8,Increase monitoring frequency,15,0,9985,0
+T1276,West,5G,79.43,Warning,LOW,24.11,Normal monitoring,18,0,13682,0
+T1277,North,5G,79.25,Warning,MEDIUM,35.58,Increase monitoring frequency,14,0,7486,0
+T1278,East,4G,51.7,Critical,CRITICAL,100.0,Immediate technician inspection,19,19,12881,12881
+T1279,East,5G,79.09,Warning,LOW,19.26,Normal monitoring,11,0,7889,0
+T1280,South,4G,78.72,Warning,MEDIUM,33.75,Increase monitoring frequency,16,0,11084,0
+T1281,South,4G,78.99,Warning,MEDIUM,26.94,Increase monitoring frequency,19,0,13481,0
+T1282,North,5G,78.47,Warning,LOW,7.53,Normal monitoring,21,0,14479,0
+T1283,West,4G,78.82,Warning,MEDIUM,28.08,Increase monitoring frequency,19,0,10781,0
+T1284,East,4G,79.69,Warning,MEDIUM,27.51,Increase monitoring frequency,20,0,14380,0
+T1285,North,5G,78.99,Warning,HIGH,72.56,Schedule preventive maintenance,13,13,9187,9187
+T1286,West,4G,78.99,Warning,MEDIUM,35.76,Increase monitoring frequency,27,0,19173,0
+T1287,South,5G,78.94,Warning,MEDIUM,25.83,Increase monitoring frequency,14,0,7986,0
+T1288,West,5G,78.73,Warning,CRITICAL,78.05,Immediate technician inspection,12,12,9988,9988
+T1289,Central,4G,78.71,Warning,LOW,24.34,Normal monitoring,22,0,15678,0
+T1290,South,5G,78.99,Warning,LOW,23.28,Normal monitoring,23,0,17877,0
+T1291,West,5G,78.66,Warning,LOW,11.6,Normal monitoring,25,0,17175,0
+T1292,South,4G,78.38,Warning,MEDIUM,27.67,Increase monitoring frequency,22,0,13978,0
+T1293,North,5G,78.76,Warning,MEDIUM,25.2,Increase monitoring frequency,22,0,15878,0
+T1294,Central,4G,78.1,Warning,MEDIUM,36.76,Increase monitoring frequency,31,0,21169,0
+T1295,West,4G,78.75,Warning,LOW,14.07,Normal monitoring,23,0,14277,0
+T1296,West,5G,78.52,Warning,LOW,20.37,Normal monitoring,20,0,11080,0
+T1297,Central,5G,78.3,Warning,HIGH,73.92,Schedule preventive maintenance,20,20,13580,13580
+T1298,South,4G,50.78,Critical,CRITICAL,100.0,Immediate technician inspection,26,26,19274,19274
+T1299,South,4G,78.55,Warning,MEDIUM,29.2,Increase monitoring frequency,20,0,12080,0
+T1300,South,5G,79.2,Warning,MEDIUM,28.58,Increase monitoring frequency,23,0,12877,0
+T1301,North,5G,78.67,Warning,HIGH,70.44,Schedule preventive maintenance,18,18,13682,13682
+T1302,Central,5G,78.25,Warning,MEDIUM,44.58,Increase monitoring frequency,16,0,9984,0
+T1303,North,4G,78.92,Warning,MEDIUM,35.63,Increase monitoring frequency,26,0,19074,0
+T1304,West,4G,78.98,Warning,LOW,17.73,Normal monitoring,21,0,14679,0
+T1305,Central,4G,78.72,Warning,MEDIUM,33.73,Increase monitoring frequency,21,0,15479,0
+T1306,East,5G,51.21,Critical,CRITICAL,100.0,Immediate technician inspection,21,21,12779,12779
+T1307,West,4G,78.12,Warning,LOW,20.5,Normal monitoring,31,0,21969,0
+T1308,North,4G,78.38,Warning,MEDIUM,25.23,Increase monitoring frequency,8,0,5192,0
+T1309,East,5G,78.76,Warning,LOW,24.75,Normal monitoring,26,0,19674,0
+T1310,East,4G,79.35,Warning,LOW,21.49,Normal monitoring,16,0,11284,0
+T1311,East,4G,79.04,Warning,LOW,17.5,Normal monitoring,16,0,11084,0
+T1312,West,5G,78.5,Warning,MEDIUM,28.37,Increase monitoring frequency,21,0,16179,0
+T1313,West,4G,78.66,Warning,CRITICAL,83.88,Immediate technician inspection,17,17,12983,12983
+T1314,North,5G,78.11,Warning,LOW,16.29,Normal monitoring,22,0,17878,0
+T1315,West,5G,78.06,Warning,MEDIUM,45.37,Increase monitoring frequency,20,0,15880,0
+T1316,East,4G,78.54,Warning,MEDIUM,34.6,Increase monitoring frequency,15,0,10385,0
+T1317,East,5G,79.04,Warning,MEDIUM,49.67,Increase monitoring frequency,24,0,17376,0
+T1318,East,4G,78.31,Warning,MEDIUM,25.72,Increase monitoring frequency,19,0,12281,0
+T1319,East,4G,79.01,Warning,LOW,16.27,Normal monitoring,18,0,10582,0
+T1320,South,5G,78.25,Warning,LOW,12.43,Normal monitoring,16,0,10084,0
+T1321,East,5G,79.13,Warning,MEDIUM,42.34,Increase monitoring frequency,20,0,15380,0
+T1322,East,5G,78.81,Warning,LOW,18.82,Normal monitoring,18,0,14382,0
+T1323,Central,5G,78.7,Warning,LOW,24.15,Normal monitoring,16,0,10184,0
+T1324,North,5G,78.67,Warning,LOW,13.77,Normal monitoring,22,0,15678,0
+T1325,North,4G,78.55,Warning,MEDIUM,25.44,Increase monitoring frequency,20,0,13280,0
+T1326,North,4G,78.92,Warning,CRITICAL,80.51,Immediate technician inspection,15,15,8785,8785
+T1327,East,5G,77.73,Warning,MEDIUM,25.61,Increase monitoring frequency,19,0,15381,0
+T1328,West,5G,78.68,Warning,HIGH,57.4,Schedule preventive maintenance,19,19,14481,14481
+T1329,South,5G,78.74,Warning,LOW,24.1,Normal monitoring,22,0,12778,0
+T1330,North,4G,78.49,Warning,HIGH,73.29,Schedule preventive maintenance,23,23,15777,15777
+T1331,Central,4G,78.32,Warning,HIGH,65.71,Schedule preventive maintenance,21,21,17179,17179
+T1332,South,5G,78.6,Warning,LOW,24.17,Normal monitoring,14,0,10686,0
+T1333,North,4G,78.86,Warning,LOW,15.82,Normal monitoring,28,0,20372,0
+T1334,North,5G,78.58,Warning,LOW,24.64,Normal monitoring,16,0,14084,0
+T1335,Central,5G,78.3,Warning,LOW,16.76,Normal monitoring,15,0,12185,0
+T1336,East,4G,79.4,Warning,MEDIUM,49.84,Increase monitoring frequency,24,0,16976,0
+T1337,South,5G,50.89,Critical,CRITICAL,100.0,Immediate technician inspection,30,30,22070,22070
+T1338,West,4G,78.83,Warning,LOW,23.63,Normal monitoring,17,0,11283,0
+T1339,West,5G,78.58,Warning,LOW,22.16,Normal monitoring,23,0,18077,0
+T1340,North,4G,79.26,Warning,CRITICAL,80.66,Immediate technician inspection,23,23,17677,17677
+T1341,West,5G,78.57,Warning,MEDIUM,35.97,Increase monitoring frequency,28,0,18072,0
+T1342,Central,4G,78.44,Warning,MEDIUM,25.01,Increase monitoring frequency,21,0,13179,0
+T1343,North,4G,78.5,Warning,MEDIUM,35.7,Increase monitoring frequency,13,0,8787,0
+T1344,East,4G,79.13,Warning,LOW,8.81,Normal monitoring,29,0,20271,0
+T1345,North,5G,79.13,Warning,MEDIUM,25.51,Increase monitoring frequency,29,0,20771,0
+T1346,South,5G,79.5,Warning,CRITICAL,89.77,Immediate technician inspection,14,14,8986,8986
+T1347,Central,4G,78.2,Warning,HIGH,62.35,Schedule preventive maintenance,23,23,16777,16777
+T1348,East,4G,78.46,Warning,MEDIUM,42.17,Increase monitoring frequency,15,0,9485,0
+T1349,Central,5G,79.1,Warning,LOW,23.11,Normal monitoring,24,0,16076,0
+T1350,Central,4G,78.44,Warning,LOW,17.97,Normal monitoring,27,0,21573,0
+T1351,East,5G,79.14,Warning,MEDIUM,35.18,Increase monitoring frequency,26,0,18674,0
+T1352,East,5G,78.61,Warning,HIGH,53.04,Schedule preventive maintenance,17,17,12483,12483
+T1353,West,5G,78.87,Warning,HIGH,73.46,Schedule preventive maintenance,25,25,17575,17575
+T1354,East,5G,51.0,Critical,CRITICAL,100.0,Immediate technician inspection,18,18,14282,14282
+T1355,South,5G,78.73,Warning,LOW,20.49,Normal monitoring,28,0,19572,0
+T1356,West,4G,80.3,Healthy,CRITICAL,86.93,Immediate technician inspection,21,21,17379,17379
+T1357,North,5G,78.35,Warning,LOW,19.35,Normal monitoring,20,0,10880,0
+T1358,South,4G,78.48,Warning,MEDIUM,28.88,Increase monitoring frequency,18,0,12982,0
+T1359,South,4G,78.86,Warning,HIGH,52.51,Schedule preventive maintenance,15,15,9685,9685
+T1360,East,5G,78.38,Warning,MEDIUM,27.29,Increase monitoring frequency,17,0,12483,0
+T1361,West,4G,78.6,Warning,MEDIUM,29.39,Increase monitoring frequency,27,0,17573,0
+T1362,East,5G,79.02,Warning,MEDIUM,28.79,Increase monitoring frequency,23,0,16077,0
+T1363,East,4G,77.78,Warning,MEDIUM,25.35,Increase monitoring frequency,21,0,16579,0
+T1364,East,5G,78.19,Warning,LOW,24.99,Normal monitoring,13,0,9887,0
+T1365,Central,4G,79.68,Warning,MEDIUM,37.58,Increase monitoring frequency,11,0,9989,0
+T1366,Central,5G,51.75,Critical,CRITICAL,100.0,Immediate technician inspection,13,13,10287,10287
+T1367,Central,4G,78.78,Warning,LOW,21.57,Normal monitoring,24,0,15476,0
+T1368,East,5G,78.72,Warning,LOW,20.71,Normal monitoring,22,0,15078,0
+T1369,West,4G,78.06,Warning,CRITICAL,81.6,Immediate technician inspection,20,20,13580,13580
+T1370,West,5G,78.98,Warning,MEDIUM,29.28,Increase monitoring frequency,27,0,18773,0
+T1371,East,5G,78.22,Warning,LOW,21.22,Normal monitoring,12,0,8588,0
+T1372,Central,5G,78.9,Warning,MEDIUM,31.18,Increase monitoring frequency,20,0,12280,0
+T1373,Central,5G,78.49,Warning,CRITICAL,83.98,Immediate technician inspection,24,24,14776,14776
+T1374,North,5G,79.03,Warning,LOW,24.15,Normal monitoring,18,0,9582,0
+T1375,Central,5G,79.02,Warning,MEDIUM,35.12,Increase monitoring frequency,21,0,14779,0
+T1376,Central,4G,78.61,Warning,MEDIUM,33.12,Increase monitoring frequency,20,0,13480,0
+T1377,Central,5G,78.82,Warning,LOW,13.58,Normal monitoring,20,0,12280,0
+T1378,Central,4G,78.25,Warning,LOW,16.42,Normal monitoring,20,0,12780,0
+T1379,South,5G,78.99,Warning,LOW,23.78,Normal monitoring,20,0,15380,0
+T1380,West,4G,79.11,Warning,MEDIUM,26.81,Increase monitoring frequency,18,0,13782,0
+T1381,East,5G,77.83,Warning,LOW,14.0,Normal monitoring,18,0,11082,0
+T1382,West,5G,79.08,Warning,CRITICAL,81.05,Immediate technician inspection,22,22,14778,14778
+T1383,Central,5G,78.29,Warning,LOW,22.85,Normal monitoring,17,0,12483,0
+T1384,East,4G,78.88,Warning,LOW,16.65,Normal monitoring,25,0,18475,0
+T1385,South,5G,79.11,Warning,CRITICAL,80.38,Immediate technician inspection,19,19,14381,14381
+T1386,East,4G,78.72,Warning,LOW,12.39,Normal monitoring,24,0,15876,0
+T1387,East,4G,78.4,Warning,MEDIUM,25.54,Increase monitoring frequency,19,0,16481,0
+T1388,East,5G,79.38,Warning,MEDIUM,36.54,Increase monitoring frequency,24,0,18076,0
+T1389,South,5G,78.78,Warning,LOW,23.46,Normal monitoring,23,0,15077,0
+T1390,North,4G,78.06,Warning,MEDIUM,26.84,Increase monitoring frequency,28,0,20972,0
+T1391,South,4G,78.81,Warning,LOW,18.32,Normal monitoring,18,0,15082,0
+T1392,North,4G,78.78,Warning,LOW,18.98,Normal monitoring,25,0,14275,0
+T1393,West,5G,78.51,Warning,CRITICAL,83.68,Immediate technician inspection,13,13,8887,8887
+T1394,East,5G,78.9,Warning,LOW,14.55,Normal monitoring,13,0,10887,0
+T1395,Central,4G,78.9,Warning,CRITICAL,78.18,Immediate technician inspection,25,25,13675,13675
+T1396,South,5G,78.84,Warning,LOW,18.39,Normal monitoring,21,0,12279,0
+T1397,West,5G,79.24,Warning,MEDIUM,38.81,Increase monitoring frequency,28,0,18172,0
+T1398,North,4G,78.52,Warning,LOW,20.84,Normal monitoring,16,0,11184,0
+T1399,East,5G,78.73,Warning,MEDIUM,34.2,Increase monitoring frequency,26,0,16874,0
+T1400,South,5G,79.29,Warning,MEDIUM,44.35,Increase monitoring frequency,23,0,14477,0
+T1401,South,5G,78.82,Warning,MEDIUM,25.45,Increase monitoring frequency,8,0,5492,0
+T1402,East,5G,79.56,Warning,MEDIUM,28.1,Increase monitoring frequency,19,0,15881,0
+T1403,Central,5G,78.48,Warning,MEDIUM,25.54,Increase monitoring frequency,32,0,21268,0
+T1404,West,4G,51.33,Critical,CRITICAL,100.0,Immediate technician inspection,22,22,17178,17178
+T1405,South,4G,79.36,Warning,HIGH,61.17,Schedule preventive maintenance,19,19,12981,12981
+T1406,East,5G,78.41,Warning,LOW,12.0,Normal monitoring,19,0,13581,0
+T1407,East,4G,79.0,Warning,CRITICAL,76.85,Immediate technician inspection,18,18,12682,12682
+T1408,South,5G,79.54,Warning,MEDIUM,29.84,Increase monitoring frequency,19,0,12781,0
+T1409,North,5G,79.11,Warning,MEDIUM,26.48,Increase monitoring frequency,20,0,15080,0
+T1410,West,4G,79.09,Warning,MEDIUM,37.91,Increase monitoring frequency,19,0,13381,0
+T1411,West,5G,78.6,Warning,MEDIUM,27.06,Increase monitoring frequency,23,0,17277,0
+T1412,South,4G,78.27,Warning,LOW,18.29,Normal monitoring,19,0,12981,0
+T1413,North,4G,78.29,Warning,MEDIUM,29.62,Increase monitoring frequency,16,0,12884,0
+T1414,South,4G,78.45,Warning,LOW,21.63,Normal monitoring,22,0,14278,0
+T1415,North,4G,78.92,Warning,HIGH,74.28,Schedule preventive maintenance,25,25,13975,13975
+T1416,West,4G,79.11,Warning,MEDIUM,37.73,Increase monitoring frequency,19,0,13281,0
+T1417,Central,4G,78.09,Warning,LOW,13.81,Normal monitoring,23,0,19677,0
+T1418,North,5G,79.62,Warning,HIGH,55.73,Schedule preventive maintenance,17,17,9683,9683
+T1419,Central,4G,78.66,Warning,LOW,16.97,Normal monitoring,18,0,11382,0
+T1420,Central,4G,78.6,Warning,MEDIUM,25.4,Increase monitoring frequency,19,0,15281,0
+T1421,North,5G,78.85,Warning,MEDIUM,40.0,Increase monitoring frequency,20,0,14780,0
+T1422,East,5G,79.44,Warning,LOW,24.05,Normal monitoring,13,0,10987,0
+T1423,West,4G,78.42,Warning,LOW,19.92,Normal monitoring,19,0,12381,0
+T1424,South,5G,78.17,Warning,LOW,14.35,Normal monitoring,16,0,8184,0
+T1425,Central,4G,78.61,Warning,CRITICAL,79.23,Immediate technician inspection,26,26,18274,18274
+T1426,North,5G,78.43,Warning,LOW,21.12,Normal monitoring,26,0,20674,0
+T1427,Central,5G,78.66,Warning,LOW,22.1,Normal monitoring,21,0,16279,0
+T1428,South,5G,78.6,Warning,MEDIUM,48.21,Increase monitoring frequency,12,0,7488,0
+T1429,North,5G,79.36,Warning,LOW,18.04,Normal monitoring,18,0,12982,0
+T1430,South,4G,78.79,Warning,MEDIUM,34.14,Increase monitoring frequency,26,0,18374,0
+T1431,Central,4G,79.08,Warning,MEDIUM,25.1,Increase monitoring frequency,27,0,18473,0
+T1432,South,4G,78.79,Warning,LOW,17.7,Normal monitoring,25,0,18775,0
+T1433,Central,5G,77.67,Warning,LOW,21.11,Normal monitoring,19,0,16481,0
+T1434,East,5G,78.13,Warning,MEDIUM,33.74,Increase monitoring frequency,19,0,13081,0
+T1435,South,5G,78.62,Warning,MEDIUM,27.1,Increase monitoring frequency,22,0,11478,0
+T1436,South,5G,79.08,Warning,LOW,21.66,Normal monitoring,15,0,11785,0
+T1437,West,5G,78.89,Warning,MEDIUM,28.68,Increase monitoring frequency,15,0,8585,0
+T1438,West,4G,78.93,Warning,LOW,19.69,Normal monitoring,17,0,10283,0
+T1439,East,4G,78.9,Warning,MEDIUM,31.27,Increase monitoring frequency,14,0,8686,0
+T1440,West,5G,79.11,Warning,LOW,20.76,Normal monitoring,28,0,21372,0
+T1441,East,4G,79.18,Warning,LOW,24.71,Normal monitoring,19,0,14481,0
+T1442,East,4G,78.88,Warning,LOW,14.78,Normal monitoring,23,0,18577,0
+T1443,East,5G,79.13,Warning,LOW,13.52,Normal monitoring,20,0,14080,0
+T1444,South,4G,78.11,Warning,MEDIUM,32.18,Increase monitoring frequency,17,0,12483,0
+T1445,East,4G,50.69,Critical,CRITICAL,100.0,Immediate technician inspection,17,17,11383,11383
+T1446,West,4G,78.63,Warning,MEDIUM,25.05,Increase monitoring frequency,21,0,17479,0
+T1447,South,5G,79.11,Warning,LOW,19.17,Normal monitoring,19,0,12681,0
+T1448,East,5G,78.41,Warning,LOW,14.06,Normal monitoring,19,0,13581,0
+T1449,West,4G,78.19,Warning,MEDIUM,33.22,Increase monitoring frequency,25,0,18875,0
+T1450,South,5G,78.63,Warning,LOW,19.47,Normal monitoring,20,0,12680,0
+T1451,South,4G,78.42,Warning,MEDIUM,25.94,Increase monitoring frequency,18,0,13382,0
+T1452,West,5G,78.9,Warning,LOW,18.18,Normal monitoring,23,0,15377,0
+T1453,Central,4G,78.3,Warning,MEDIUM,37.45,Increase monitoring frequency,23,0,16377,0
+T1454,East,5G,78.83,Warning,LOW,20.74,Normal monitoring,24,0,16976,0
+T1455,West,4G,78.56,Warning,LOW,18.74,Normal monitoring,16,0,10684,0
+T1456,Central,5G,78.12,Warning,MEDIUM,38.91,Increase monitoring frequency,18,0,12682,0
+T1457,Central,4G,78.61,Warning,MEDIUM,29.72,Increase monitoring frequency,28,0,17972,0
+T1458,North,5G,78.53,Warning,MEDIUM,30.54,Increase monitoring frequency,11,0,8889,0
+T1459,South,4G,78.25,Warning,LOW,24.01,Normal monitoring,14,0,6786,0
+T1460,Central,5G,79.12,Warning,LOW,24.06,Normal monitoring,23,0,17677,0
+T1461,Central,5G,78.71,Warning,LOW,18.49,Normal monitoring,18,0,14782,0
+T1462,Central,5G,77.9,Warning,MEDIUM,33.41,Increase monitoring frequency,13,0,8587,0
+T1463,South,4G,78.91,Warning,MEDIUM,38.88,Increase monitoring frequency,18,0,14482,0
+T1464,South,5G,77.78,Warning,LOW,24.6,Normal monitoring,22,0,15278,0
+T1465,North,5G,78.9,Warning,MEDIUM,25.28,Increase monitoring frequency,23,0,16877,0
+T1466,South,5G,79.56,Warning,MEDIUM,31.53,Increase monitoring frequency,24,0,16876,0
+T1467,North,5G,79.02,Warning,LOW,12.65,Normal monitoring,21,0,11179,0
+T1468,North,4G,78.17,Warning,CRITICAL,76.45,Immediate technician inspection,24,24,17476,17476
+T1469,Central,4G,78.47,Warning,LOW,12.47,Normal monitoring,23,0,17977,0
+T1470,South,5G,78.76,Warning,MEDIUM,30.72,Increase monitoring frequency,25,0,16275,0
+T1471,Central,4G,52.78,Critical,CRITICAL,100.0,Immediate technician inspection,20,20,13480,13480
+T1472,South,4G,50.55,Critical,CRITICAL,100.0,Immediate technician inspection,27,27,18773,18773
+T1473,North,5G,78.77,Warning,MEDIUM,29.86,Increase monitoring frequency,23,0,18777,0
+T1474,Central,5G,79.13,Warning,MEDIUM,27.3,Increase monitoring frequency,12,0,6488,0
+T1475,Central,5G,79.04,Warning,LOW,12.77,Normal monitoring,14,0,10986,0
+T1476,East,5G,78.68,Warning,MEDIUM,25.72,Increase monitoring frequency,21,0,14279,0
+T1477,West,5G,78.95,Warning,LOW,20.04,Normal monitoring,16,0,13584,0
+T1478,West,4G,78.25,Warning,LOW,12.57,Normal monitoring,17,0,13383,0
+T1479,Central,5G,78.89,Warning,LOW,21.8,Normal monitoring,14,0,7586,0
+T1480,East,4G,78.95,Warning,MEDIUM,30.32,Increase monitoring frequency,17,0,9383,0
+T1481,West,5G,79.8,Warning,CRITICAL,80.25,Immediate technician inspection,20,20,13680,13680
+T1482,West,5G,79.19,Warning,MEDIUM,26.99,Increase monitoring frequency,23,0,17677,0
+T1483,South,5G,78.89,Warning,LOW,18.94,Normal monitoring,16,0,10184,0
+T1484,North,4G,78.46,Warning,LOW,22.53,Normal monitoring,21,0,13279,0
+T1485,Central,5G,78.41,Warning,MEDIUM,31.74,Increase monitoring frequency,13,0,8887,0
+T1486,West,4G,78.75,Warning,MEDIUM,26.22,Increase monitoring frequency,18,0,11982,0
+T1487,Central,4G,78.17,Warning,MEDIUM,33.38,Increase monitoring frequency,17,0,10783,0
+T1488,East,5G,79.26,Warning,MEDIUM,38.14,Increase monitoring frequency,21,0,14179,0
+T1489,East,5G,79.18,Warning,MEDIUM,26.31,Increase monitoring frequency,27,0,18773,0
+T1490,East,4G,79.51,Warning,MEDIUM,46.61,Increase monitoring frequency,27,0,18973,0
+T1491,South,5G,78.58,Warning,LOW,13.11,Normal monitoring,21,0,12479,0
+T1492,East,5G,78.98,Warning,CRITICAL,80.26,Immediate technician inspection,25,25,15575,15575
+T1493,West,4G,77.93,Warning,MEDIUM,28.38,Increase monitoring frequency,16,0,10784,0
+T1494,West,5G,78.27,Warning,HIGH,64.27,Schedule preventive maintenance,21,21,16079,16079
+T1495,East,5G,51.45,Critical,CRITICAL,100.0,Immediate technician inspection,21,21,13679,13679
+T1496,West,5G,79.11,Warning,LOW,21.75,Normal monitoring,33,0,22767,0
+T1497,Central,4G,78.32,Warning,LOW,23.08,Normal monitoring,23,0,16277,0
+T1498,North,5G,79.07,Warning,LOW,11.21,Normal monitoring,13,0,10587,0
+T1499,North,5G,78.47,Warning,LOW,22.06,Normal monitoring,17,0,8783,0
